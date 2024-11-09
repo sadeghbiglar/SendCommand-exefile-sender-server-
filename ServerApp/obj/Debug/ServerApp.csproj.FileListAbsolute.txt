@@ -1,0 +1,7 @@
+C:\Users\sadeghbiglar\Desktop\c#\ServerApp\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\sadeghbiglar\Desktop\c#\ServerApp\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\sadeghbiglar\Desktop\c#\ServerApp\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\sadeghbiglar\Desktop\c#\ServerApp\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\sadeghbiglar\Desktop\c#\ServerApp\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\sadeghbiglar\Desktop\c#\ServerApp\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\sadeghbiglar\Desktop\c#\ServerApp\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
